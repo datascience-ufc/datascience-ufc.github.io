@@ -13,9 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-theme: jekyll-theme-so-simple
-# remote_theme: mmistakes/so-simple-theme
-locale: en-US
+remote_theme: mmistakes/so-simple-theme
+locale: pt-BR
 title: "Data Science UFC"
 description: "Grupo de Ciência de Dados da Universidade Federal do Pará, campus de Sobral."
 baseurl: /blog # the subpath of your site, e.g. "/blog"
@@ -32,7 +31,7 @@ google_fonts:
     weights: "400,400i,700,700i"
 google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
-  shortname: datascience # Disqus shortname, e.g. "my_disqus_shortname"
+  shortname: datascience-ufc # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
   username: # site's Twitter username, e.g. "mmistakes"
 
@@ -102,8 +101,6 @@ author:
       - title: Reddit
         url: https://www.reddit.com/user/ryukinix
         icon: fab fa-reddit
-
-
 
 
 # Footer Links
