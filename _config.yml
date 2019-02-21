@@ -18,7 +18,7 @@
 remote_theme: mmistakes/so-simple-theme
 locale: pt-BR
 title: "Data Science UFC"
-description: "Grupo de Ciência de Dados da Universidade Federal do Pará, campus de Sobral."
+description: "Grupo de Ciência de Dados da Universidade Federal do Ceará, campus de Sobral."
 # baseurl: / # the subpath of your site, e.g. "/blog"
 url: https://datascience-ufc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: /images/ufc-logo.png # path of site logo, e.g. "/images/logo.png"
@@ -104,11 +104,9 @@ defaults:
 
 # Site Author
 author:
-  name: Manoel Vilela
-  picture: /images/ryukinix.jpg
+  name: Universidade Federal do Ceará
+  picture: /images/logo-ufc.png
   email: manoel_vilela@engineer.com
-  github: ryukinix
-  disqus-shortname: ryukinix
   links:
       - title: GitHub
         url: https://github.com/ryukinix
