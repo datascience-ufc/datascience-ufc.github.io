@@ -1,15 +1,12 @@
 # Authors
 
-Billy Rick:
-  name: Billy Rick
-  picture: /images/bio-photo-2.jpg
-  twitter: "@billyrick"
+matheus_frota:
+  name: Matheus Frota
+  picture: /images/matheus_frota.jpg
   links:
-    - title: Twitter
-      url: https://twitter.com/billyrick
-      icon: fab fa-twitter-square
-
-Cornelius Fiddlebone:
-  name: Cornelius Fiddlebone
-  picture: /images/bio-photo.jpg
-  twitter: corneliusfiddlebone
+    - title: GitHub
+      url: https://github.com/matheusAJ
+      icon: fab fa-github-square
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/matheus-frota-588450125/
+      icon: fab fa-linkedin-in
