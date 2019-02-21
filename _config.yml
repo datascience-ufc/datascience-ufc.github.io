@@ -13,14 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+# theme: jekyll-theme-so-simple
 remote_theme: mmistakes/so-simple-theme
 locale: pt-BR
 title: "Data Science UFC"
 description: "Grupo de Ciência de Dados da Universidade Federal do Pará, campus de Sobral."
-baseurl: /blog # the subpath of your site, e.g. "/blog"
+# baseurl: / # the subpath of your site, e.g. "/blog"
 url: https://datascience-ufc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: /images/logo.png # path of site logo, e.g. "/images/logo.png"
-date_format: "%-d %B, %Y"
+logo: /images/ufc-logo.png # path of site logo, e.g. "/images/logo.png"
+date_format: "%-d/%m/%Y"
 read_time: true # reading time estimates, e.g. true
 words_per_minute: 200 # 200
 mathjax: true # MathJax equations, e.g. true
@@ -46,15 +48,15 @@ feed:
   path: atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
-# paginate: 10
-# paginate_path: /page:num/
+paginate: 10
+paginate_path: /page:num/
 
 # Search
-search_full_content: true # can have performance implications for large sites
+search_full_content: false
 
 # Taxonomy pages
-# category_archive_path: "/categories/#"
-# tag_archive_path: "/tags/#"
+category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -73,16 +75,32 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-redirect-from
 
-# Front Matter Defaults
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
+
 defaults:
-  # Posts defaults
+  # Post defaults
   - scope:
-      path: "posts"
+      path: "_posts"
       type: posts
     values:
       layout: post
+      comments: true
       share: true
+  # Recipe defaults
+  - scope:
+      path: "_projects"
+      type: recipes
+    values:
+      layout: post
+      comments: true
+      share: true
+
 
 # Site Author
 author:
@@ -102,9 +120,11 @@ author:
         url: https://www.reddit.com/user/ryukinix
         icon: fab fa-reddit
 
-
 # Footer Links
 footer_links:
+  - title: GitHub
+    url: https://github.com/datascience-ufc
+    icon: fab fa-github-square
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
