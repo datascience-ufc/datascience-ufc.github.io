@@ -104,8 +104,8 @@ defaults:
 
 # Site Author
 author:
-  name: Universidade Federal do Ceará
-  picture: /images/logo-ufc.png
+  name: Datascience - UFC
+  picture: /images/ufc-logo.png
   email: manoel_vilela@engineer.com
   links:
       - title: GitHub

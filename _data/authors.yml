@@ -10,3 +10,28 @@ matheus_frota:
     - title: LinkedIn
       url: https://www.linkedin.com/in/matheus-frota-588450125/
       icon: fab fa-linkedin-in
+
+denilson_gomes:
+  name: Denilson Gomes
+  picture: /images/matheus_frota.jpg
+  links:
+    - title: GitHub
+      url: https://github.com/matheusAJ
+      icon: fab fa-github-square
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/matheus-frota-588450125/
+      icon: fab fa-linkedin-in
+
+manoel_vilela:
+  name: Manoel Vilela
+  picture: /images/manoel_vilela.jpg
+  links:
+      - title: GitHub
+        url: https://github.com/ryukinix
+        icon: fab fa-github-square
+      - title: Blog
+        url: https://lerax.me
+        icon: fab fa-reddit
+      - title: Reddit
+        url: https://www.reddit.com/user/ryukinix
+        icon: fab fa-reddit
