@@ -24,7 +24,7 @@ manoel_vilela:
         icon: fab fa-github-square
       - title: Blog
         url: https://lerax.me
-        icon: fab fa-reddit
+        icon: fas fa-book
       - title: Reddit
         url: https://www.reddit.com/user/ryukinix
         icon: fab fa-reddit
