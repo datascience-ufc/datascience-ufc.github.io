@@ -13,14 +13,7 @@ matheus_frota:
 
 denilson_gomes:
   name: Denilson Gomes
-  picture: /images/matheus_frota.jpg
-  links:
-    - title: GitHub
-      url: https://github.com/matheusAJ
-      icon: fab fa-github-square
-    - title: LinkedIn
-      url: https://www.linkedin.com/in/matheus-frota-588450125/
-      icon: fab fa-linkedin-in
+  picture: /images/denilson_gomes.jpg
 
 manoel_vilela:
   name: Manoel Vilela
