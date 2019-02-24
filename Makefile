@@ -1,11 +1,14 @@
-all: install serve
+all: serve
 
 install:
-	@if [[ -f $(shell pwd)/vendor/ ]]; then \
+	@if [[ ! -d vendor ]]; then \
          bundle install --path vendor/bundle; \
 	     bundle add jekyll; \
     fi
 
 
-serve:
+serve: install
 	bundle exec jekyll serve
+
+clean:
+	rm -rfv _site vendor
