@@ -109,14 +109,11 @@ author:
   email: manoel_vilela@engineer.com
   links:
       - title: GitHub
-        url: https://github.com/ryukinix
+        url: https://github.com/datascience-ufc
         icon: fab fa-github-square
-      - title: Blog
-        url: https://lerax.me
-        icon: fab fa-reddit
-      - title: Reddit
-        url: https://www.reddit.com/user/ryukinix
-        icon: fab fa-reddit
+      - title: Site curso
+        url: http://www.ec.ufc.br
+        icon: fas fa-book
 
 # Footer Links
 footer_links:
@@ -126,3 +123,9 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+  - title: Site curso
+    url: https://ec.ufc.br
+    icon: fas fa-book
+  - title: Site campus
+    url: http://sobral.ufc.br
+    icon: fas fa-book
