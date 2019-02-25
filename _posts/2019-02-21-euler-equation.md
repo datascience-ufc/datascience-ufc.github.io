@@ -11,7 +11,7 @@ tags:
 
 A equação de euler é uma das mais belas conexões entre os números e a
 geometria. Sua relação advém da conexão do plano complexo e a
-trigonometria. Podemos reduzi-las a partir da [fórmula de euler] dada
+trigonometria. Podemos deduzi-la a partir da [fórmula de euler] dada
 pela exponencial complexa:
 
 
