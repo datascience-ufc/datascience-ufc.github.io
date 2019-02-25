@@ -124,7 +124,7 @@ footer_links:
     url: atom.xml
     icon: fas fa-rss-square
   - title: Site curso
-    url: https://ec.ufc.br
+    url: https://www.ec.ufc.br
     icon: fas fa-book
   - title: Site campus
     url: http://sobral.ufc.br
