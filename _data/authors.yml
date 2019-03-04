@@ -28,3 +28,16 @@ manoel_vilela:
       - title: Reddit
         url: https://www.reddit.com/user/ryukinix
         icon: fab fa-reddit
+rayon_nunes:
+  name: Rayon L. rayon_nunes
+  picture: /images/rayon_nunes.jpg
+  links:
+    - title: GitHub
+      url: https://github.com/rayonnunes
+      icon: fab fa-github-square
+    - title: Blog
+      url: https://rayonnunes.me
+      icon: fas fa-book
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/rayonnunes
+      icon: fab fa-linkedin-in
