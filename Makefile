@@ -1,13 +1,20 @@
+DOCKER_IMG = datascience-ufc
+
 all: serve
 
-install:
-	@if [[ ! -d vendor ]]; then \
+install-deps:
+	@if [ ! -d vendor ]; then \
          bundle install --path vendor/bundle; \
 	     bundle add jekyll; \
     fi
 
+blog: image
+	docker run -it --rm --network=host $(DOCKER_IMG)
 
-serve: install
+image:
+	docker build -t $(DOCKER_IMG) .
+
+serve: install-deps
 	bundle exec jekyll serve
 
 clean:
