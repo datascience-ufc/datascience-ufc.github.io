@@ -1,6 +1,7 @@
 ---
 author: rayon_nunes
 title: "Post de Apresentação"
+hidden: true
 categories:
   - programming
 tags:

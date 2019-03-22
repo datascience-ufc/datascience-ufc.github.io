@@ -1,6 +1,7 @@
 ---
 author: denilson_gomes
 title: "Hello Linear Regression!"
+hidden: true
 categories:
   - programming
 tags:
