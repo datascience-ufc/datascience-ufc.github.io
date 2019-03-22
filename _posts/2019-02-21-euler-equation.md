@@ -1,6 +1,7 @@
 ---
 title: "Equação de Euler"
 author: manoel_vilela
+hidden: true
 categories:
   - mathematics
 tags:
