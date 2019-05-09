@@ -34,11 +34,12 @@ muitas aplicações.
 
 ✔ Publicar por meio deste blog relatórios e artigos de estudos do grupo
 
-# Autores
+# Membros
 
 - André Rodrigues;
 - Denilson Gomes;
 - Gerônimo Aguiar;
+- Íalis Cavalcante Jr;
 - Igor Linhares;
 - Lucas Natanael;
 - Manoel Vilela;
