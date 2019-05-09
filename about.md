@@ -33,3 +33,17 @@ muitas aplicações.
 ✔ Desenvolver APIs e Softwares Open Source para a comunidade;
 
 ✔ Publicar por meio deste blog relatórios e artigos de estudos do grupo
+
+# Autores
+
+- André Rodrigues;
+- Denilson Gomes;
+- Gerônimo Aguiar;
+- Igor Linhares;
+- Lucas Natanael;
+- Manoel Vilela;
+- Matheus Frota;
+- Pedro Renoir;
+- Rayon Nunes;
+- Samuel Hericles.
+
