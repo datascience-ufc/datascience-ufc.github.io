@@ -10,7 +10,7 @@ sitemap: false
 
 # História
 
-O grupo nasceu da simples ideia de que: Se queremos estudar *Data Science*
+O grupo nasceu da simples ideia de que: se queremos estudar *Data Science*
 iremos e pronto!
 
 Bom, na realidade... Ciência de Dados não é tão popular no Campus, mas
@@ -19,17 +19,32 @@ fortíssima dos cursos de Engenharia da UFC. Especialmente em Sobral os
 cursos de engenharia são: Engenharia da Computação e Engenharia
 Elétrica.
 
-Esse é um esforço mútuo de algunos alunos dos cursos de Engenharia
+Este é um esforço mútuo de alguns alunos dos cursos de Engenharia
 para demonstrar que os fundamentos matemáticos e de computação tem
-muitas aplicações.
+diversas aplicações.
 
 *Data Science* vai ser nosso alvo!
 
 # Objetivos
 ✔ Popularizar o estudo e aplicação das técnicas de Ciência de Dados;
 
-✔ Participar de competições de Data Science como o [Kaggle](http://kaggle.com);
+✔ Participar de competições de Data Science como o [Kaggle](http://kaggle.com) e Codenation;
 
 ✔ Desenvolver APIs e Softwares Open Source para a comunidade;
 
-✔ Publicar por meio deste blog relatórios e artigos de estudos do grupo
+✔ Publicar por meio deste blog relatórios e artigos de estudos do grupo.
+
+# Membros
+
+- André Rodrigues;
+- Denilson Gomes;
+- Gerônimo Aguiar;
+- Íalis Cavalcante Jr;
+- Igor Linhares;
+- Lucas Natanael;
+- Manoel Vilela;
+- Matheus Frota;
+- Pedro Renoir;
+- Rayon Nunes;
+- Samuel Hericles.
+
