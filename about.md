@@ -36,15 +36,15 @@ diversas aplicações.
 
 # Membros
 
-- André Rodrigues;
-- Denilson Gomes;
+- ![ufc](/images/andre_rogrigues.jpg)André Rodrigues;
+- ![ufc](/images/denilson_gomes.jpg)Denilson Gomes;
 - Gerônimo Aguiar;
-- Íalis Cavalcante Jr;
+- ![ufc](/images/ialis_cavalcante.jpg)Íalis Cavalcante Jr;
 - Igor Linhares;
-- Lucas Natanael;
-- Manoel Vilela;
-- Matheus Frota;
-- Pedro Renoir;
-- Rayon Nunes;
+- ![ufc](/images/lucas_natanael.jpg)Lucas Natanael;
+- ![ufc](/images/manoel_vilela.jpg)Manoel Vilela;
+- ![ufc](/images/matheus_frota.jpg)Matheus Frota;
+- ![ufc](/images/pedro_renoir.jpg)Pedro Renoir;
+- ![ufc](/images/rayon_nunes.jpg)Rayon Nunes;
 - Samuel Hericles.
 
