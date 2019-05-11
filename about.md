@@ -41,7 +41,7 @@ diversas aplicações.
 | ![ufc](/images/denilson_gomes.jpg)  |Denilson Gomes;     |
 | ![ufc](/images/geronimo_pereira.jpg)|Gerônimo Aguiar;    |
 | ![ufc](/images/ialis_cavalcante.jpg)|Íalis Cavalcante Jr;|
-| 				      |Igor Linhares;      |
+| ![ufc](/images/igor_linhares.jpg)   |Igor Linhares;      |
 | ![ufc](/images/lucas_natanael.jpg)  |Lucas Natanael;     |
 | ![ufc](/images/manoel_vilela.jpg)   |Manoel Vilela;      |
 | ![ufc](/images/matheus_frota.jpg)   |Matheus Frota;      |
