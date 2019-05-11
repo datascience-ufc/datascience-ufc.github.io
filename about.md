@@ -35,16 +35,17 @@ diversas aplicações.
 ✔ Publicar por meio deste blog relatórios e artigos de estudos do grupo.
 
 # Membros
-
-- ![ufc](/images/andre_rogrigues.jpg)André Rodrigues;
-- ![ufc](/images/denilson_gomes.jpg)Denilson Gomes;
-- Gerônimo Aguiar;
-- ![ufc](/images/ialis_cavalcante.jpg)Íalis Cavalcante Jr;
-- Igor Linhares;
-- ![ufc](/images/lucas_natanael.jpg)Lucas Natanael;
-- ![ufc](/images/manoel_vilela.jpg)Manoel Vilela;
-- ![ufc](/images/matheus_frota.jpg)Matheus Frota;
-- ![ufc](/images/pedro_renoir.jpg)Pedro Renoir;
-- ![ufc](/images/rayon_nunes.jpg)Rayon Nunes;
-- Samuel Hericles.
+|Foto                                 |Nome                |
+|-------------------------------------| -------------------|
+| ![ufc](/images/andre_rogrigues.jpg) |André Rodrigues;    |
+| ![ufc](/images/denilson_gomes.jpg)  |Denilson Gomes;     |
+| ![ufc](/images/geronimo_pereira.jpg)|Gerônimo Aguiar;    |
+| ![ufc](/images/ialis_cavalcante.jpg)|Íalis Cavalcante Jr;|
+| 				      |Igor Linhares;      |
+| ![ufc](/images/lucas_natanael.jpg)  |Lucas Natanael;     |
+| ![ufc](/images/manoel_vilela.jpg)   |Manoel Vilela;      |
+| ![ufc](/images/matheus_frota.jpg)   |Matheus Frota;      |
+| ![ufc](/images/pedro_renoir.jpg)    |Pedro Renoir;       |
+| ![ufc](/images/rayon_nunes.jpg)     |Rayon Nunes;        |
+| ![ufc](/images/samuel_hericles.jpeg)|Samuel Hericles.    | 
 
