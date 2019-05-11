@@ -37,7 +37,7 @@ diversas aplicações.
 # Membros
 |Foto                                 |Nome                |
 |-------------------------------------| -------------------|
-| ![ufc](/images/andre_rogrigues.jpg) |André Rodrigues;    |
+| ![ufc](/images/andre_rodrigues.jpg) |André Rodrigues;    |
 | ![ufc](/images/denilson_gomes.jpg)  |Denilson Gomes;     |
 | ![ufc](/images/geronimo_pereira.jpg)|Gerônimo Aguiar;    |
 | ![ufc](/images/ialis_cavalcante.jpg)|Íalis Cavalcante Jr;|
